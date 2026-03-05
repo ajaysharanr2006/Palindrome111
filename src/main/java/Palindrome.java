@@ -1,4 +1,3 @@
-package com.example;
 
 public class Palindrome{
 public boolean check(String s){
