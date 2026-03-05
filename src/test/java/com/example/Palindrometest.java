@@ -1,5 +1,4 @@
-package com.example;
-
+import com.example.Palindrome;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 import main.java.Palindrome;
