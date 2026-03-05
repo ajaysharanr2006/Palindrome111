@@ -1,3 +1,5 @@
+package com.example;
+
 public class Palindrome{
 public boolean check(String s){
  String r=new StringBuilder(s).reverse().toString();
